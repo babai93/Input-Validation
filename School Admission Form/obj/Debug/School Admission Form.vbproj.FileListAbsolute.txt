@@ -1,0 +1,11 @@
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\bin\Debug\School Admission Form.exe.config
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School Admission Form.vbprojResolveAssemblyReference.cache
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School_Admission_Form.InputValidation.resources
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School_Admission_Form.Resources.resources
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School Admission Form.vbproj.GenerateResource.Cache
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School Admission Form.xml
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\bin\Debug\School Admission Form.exe
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\bin\Debug\School Admission Form.pdb
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\bin\Debug\School Admission Form.xml
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School Admission Form.exe
+F:\C Docs\Visual Studio 2015\School Admission Form\School Admission Form\obj\Debug\School Admission Form.pdb
