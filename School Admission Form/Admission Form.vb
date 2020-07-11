@@ -2,13 +2,7 @@
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         ErrorProvider1.Clear()
 
-        'If ComboBox2.Text.Length <= 0 Then
-        '    ErrorProvider1.SetIconAlignment(Me.ComboBox2, ErrorIconAlignment.MiddleRight)
-        '    ErrorProvider1.SetIconPadding(Me.ComboBox2, -40)
-        '    ErrorProvider1.SetError(Me.ComboBox2, "Please enter Surname Name")
-        'Else
-        '    MsgBox("All OK")
-        'End If
+
 
 
         Dim tbx As TextBox
